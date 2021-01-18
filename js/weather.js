@@ -20,7 +20,7 @@ setPosition();
 
 function setPosition(position) {
   // Here you can change your position
-  // You can use https://www.latlong.net/ to get it! (I use San Francisco as an example)
+  // lat long for mayfield west newcastle
   let latitude = -32.881227;
   let longitude = 151.722100;
 
